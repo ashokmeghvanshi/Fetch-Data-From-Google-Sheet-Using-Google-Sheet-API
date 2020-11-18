@@ -17,11 +17,17 @@ After installing all dependency you have to download your gspread credentials by
 1. Go to this link given below.
    Google Developer Console: https://console.developers.google.com
 2. After going there create a new project.
-3. Then Activate your Google Drive and Google Sheets API.
+3. Then Go to library Section Left Side Then there will be a Search Box.
+   Search There Google Sheets API and Enable it if it is deciable.
+   Again Search Google Drive API and Enable it if it is deciable.
 4. Then go to Credentials --Then---> service account --Then Select(name and your role)---> Name + Role --Then Select---> Editor.
 4. Then Click on KEY Then System will download and JASON File and put there where your assignment of greendeck file is an exit.
 5. Then open the JASON file there will be an attribute name "client_email" copy that and click on the share button in Google Sheet and paste there that client_email and click on the send button.
 
+# If You Are Facing Any Problem To Download Your Credentials Then Click On Below Link 
+  
+  Link:- https://youtu.be/T1vqS1NL89E
+  
 # How to Run This Program.
 
 # Important Point Whenever You Are Running This Code You Have To Connect Your System With Internet.
