@@ -24,7 +24,7 @@ After installing all dependency you have to download your gspread credentials by
 
 # How to Run This Program.
 
-# Important Point Whenever You Are Running This Code You Have To Connect Your System To Internet.
+# Important Point Whenever You Are Running This Code You Have To Connect Your System With Internet.
 
 # You have to call this function in your code like this given below.
  gsheetplot(credentialspath,drivepath,Gtype='Line',Gtitle='Google-Sheet-Graph',Xaxis=1,Yaxis=2,AxisLabel=[1,1],PlotColor='b',savefilename='Google_Sheet_Graph')
