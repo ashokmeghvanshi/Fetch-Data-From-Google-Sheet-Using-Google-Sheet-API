@@ -49,13 +49,13 @@ After installing all dependency you have to download your gspread credentials by
      Gtype='Scatter' # Here is Scatter Chart.
 
 # 4. Graph Type.
-     Gtitle='G-Sheet Ploting'.
+     Gtitle='G-Sheet Plotting'.
 
 # 5. Axis Type Which Axis You Want From Your Google Sheet Columns Like....
      Xaxis=3 # XL Sheet Columns 3rd.
      Yaxis=2 # XL Sheet Columns 2rd.
      
-# 6. If You Want Lables On Axis Then Pass Like This...
+# 6. If You Want Labels On Axis Then Pass Like This...
      AxisLabel=[0,0] # [Not X Label ,Not Y Label].
      AxisLabel=[0,1] # [Not X Label ,Y Label Yes].
      AxisLabel=[1,0] # [X Label Yes,Not Y Label].
