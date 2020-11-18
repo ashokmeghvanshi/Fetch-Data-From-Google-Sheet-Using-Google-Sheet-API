@@ -67,3 +67,14 @@ After installing all dependency you have to download your gspread credentials by
 # 9. Then System Will Final Result.
 
 
+# Example of Graph Ploting From Google Sheet
+
+1. Create a New Python File in Your Directory and Paste This Below Code in That File And Run You Will Get Result. 
+
+import plotgsheet
+credentialspath="C:\\Users\\credentials.json"
+drivepath='https://docs.google.com/spreadsheets/d/133jnnPzkSmrYEGfNbWaUbzJIRLhUepzM4TlB08HR-cA/edit#gid=0'
+plotgsheet.plotgs(credentialspath,drivepath,Gtype='Bar',Gtitle='Google-Sheet-Graph-Testing1',AxisLabel=[1,1],PlotColor='y',savefilename='PIP-Testing')
+
+
+
